@@ -1,0 +1,17 @@
+#![feature(vec_push_within_capacity)]
+
+[package]
+name = "ScalarQuantizer"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+
+
+
+[dependencies]
+parking_lot = { version = "0.12.1", features=["nightly"]}
+tdigest = "0.2.3"
+rand = "0.8.5"
+anyhow = "1.0"

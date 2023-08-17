@@ -1,0 +1,1 @@
+/Users/cansincomert/Documents/ScalarQuantizer/target/debug/ScalarQuantizer: /Users/cansincomert/Documents/ScalarQuantizer/src/lib.rs /Users/cansincomert/Documents/ScalarQuantizer/src/main.rs /Users/cansincomert/Documents/ScalarQuantizer/src/scalar_quantizer.rs
