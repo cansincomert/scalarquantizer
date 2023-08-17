@@ -4,7 +4,7 @@ use std::fs::File;
 use std::io::{self, BufReader};
 use std::path::Path;
 // use rand::distributions::{Distribution, Uniform};
-use ScalarQuantizer::scalar_quantizer::ScalarQuantizer;
+use scalarquantizer::scalar_quantizer::ScalarQuantizer;
 
 
 fn load_vectors_from_file<P: AsRef<Path>>(path: P, num_vectors: usize, dim: usize) -> io::Result<Vec<f32>> {

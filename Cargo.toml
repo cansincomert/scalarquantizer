@@ -1,7 +1,7 @@
 #![feature(vec_push_within_capacity)]
 
 [package]
-name = "ScalarQuantizer"
+name = "scalarquantizer"
 version = "0.1.0"
 edition = "2021"
 
